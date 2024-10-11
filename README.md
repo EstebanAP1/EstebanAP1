@@ -1,4 +1,4 @@
-# 👋 Hola, soy Esteban Alejandro Padilla Padilla
+
 
 <!-- ![Banner de Perfil](https://your-banner-image-url.com) <!-- Reemplaza con tu imagen de banner preferida -->
 
