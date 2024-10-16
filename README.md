@@ -10,7 +10,7 @@
 
 ## 🏆 Proyectos Destacados
 
-### [[NearSpace(https://near-space.vercel.app/)]](https://github.com/EstebanAP1/near-space)
+### [[NearSpace](https://near-space.vercel.app/)](https://github.com/EstebanAP1/near-space)
 Simulación interactiva de un orrery utilizando **Three.js** y **React-three**, que modela el movimiento de los cuerpos celestes del sistema solar.
 
 ### [SkipQ](https://skipq.vercel.app/?site=presentation-test)
