@@ -17,7 +17,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
 
-          config_allow_private: yes
+          repositories_affiliations: owner, collaborator, organization_member
 
           config_timezone: America/Bogota
           plugin_languages: yes
