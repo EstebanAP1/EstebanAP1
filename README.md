@@ -42,7 +42,7 @@ An interactive 3D solar system simulation.
 ---
 
 ## 📊 GitHub Stats
-![Esteban's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EstebanAP1&theme=dark)
+![Esteban's GitHub stats](/github-metrics.svg)
 
 ---
 
