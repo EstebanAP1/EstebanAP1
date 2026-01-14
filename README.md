@@ -66,9 +66,10 @@ Web portal developed for a **public transportation terminal**, focused on:
 - Clear separation of responsibilities and structured architecture  
 - Utilized **Prisma** as ORM for database management and integrated **Supabase** for authentication and storage 
 
----
 
 **Both portals feature a role-based access control system implemented in Next.js to manage user permissions and security.**
+
+---
 
 ## 🚀 Featured Projects
 
