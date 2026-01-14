@@ -41,9 +41,4 @@ An interactive 3D solar system simulation.
 
 ---
 
-## 📊 GitHub Stats
-![Esteban's GitHub stats](/github-metrics.svg)
-
----
-
 ### Let’s build reliable systems together.
