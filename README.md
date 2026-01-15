@@ -21,13 +21,13 @@ Software developer focused on building **production-grade web systems**. I speci
 
 ### 🧩 Puzzles Consulting (Client Projects)
 *Senior Life Pharmacy Portal (USA)*
-- **Impact:** Automated deployment cycles using CI/CD pipelines, reducing manual errors by 40%.
-- **Architecture:** Built a modular API system on GCP Cloud Run to handle high-traffic pharmacy requests.
-- **Security:** Implemented a robust RBAC (Role-Based Access Control) with Next.js and Supabase Auth.
+- Internal and public-facing portal for a U.S.-based pharmacy  
+- Integration with multiple **third-party APIs** and payment processors  
+- Implemented **CI/CD pipelines and automation workflows** using **GitHub Actions** to streamline deployments and testing
 
 ### 🚍 Zona Ter (Transportation Terminal)
-- **Problem Solved:** Digitalized the PQRSD (petitions/complaints) process for a public terminal, improving citizen response times.
-- **Key Feature:** Developed ticketing helpdesk integrated via Prisma.
+- Digitalized the PQRSD (petitions/complaints) process for a public terminal, improving citizen response times.
+- Helpdesk ticketing system for user support
 
 ---
 
