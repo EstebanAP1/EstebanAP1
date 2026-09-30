@@ -19,15 +19,11 @@ Software developer focused on building **production-grade web systems**. I speci
 
 ## 💼 Professional Experience & Impact
 
-### 🧩 Puzzles Consulting (Client Projects)
-*Senior Life Pharmacy Portal (USA)*
-- Internal and public-facing portal for a U.S.-based pharmacy  
-- Integration with multiple **third-party APIs** and payment processors  
-- Implemented **CI/CD pipelines and automation workflows** using **GitHub Actions** to streamline deployments and testing
-
-### 🚍 Zona Ter (Transportation Terminal)
-- Digitalized the PQRSD (petitions/complaints) process for a public terminal, improving citizen response times.
-- Helpdesk ticketing system for user support
+### 🧩 W2B Agency · Co-founder & CTO
+*Bilingual web, SEO and automation agency based in Barranquilla, Colombia*
+- Lead the technical architecture behind client builds and the agency's own products
+- **W2B Radar:** internal SEO control center with Search Console and analytics data, plus an MCP server over OAuth 2.1
+- CI/CD with **GitHub Actions** and automation workflows with **n8n** and **Trigger.dev**
 
 ---
 
@@ -38,6 +34,14 @@ Software developer focused on building **production-grade web systems**. I speci
 An interactive 3D solar system simulation.
 - **Tech:** Three.js, React Three Fiber.
 - **Goal:** High-performance visualization of orbital mechanics.
+
+### 📦 [W2B SEO Kit](https://www.npmjs.com/package/@w2bagency/content-loop)
+*Open source on npm (Apache-2.0)*
+A CI gate and content workflow that adds an automated SEO check to every pull request on Astro sites.
+
+### 🪐 [ExoSeek](https://exo-seek.vercel.app)
+*NASA Space Apps Challenge*
+Supervised model that classifies exoplanet candidates from NASA catalogs and scores them by confirmation probability.
 
 ---
 
